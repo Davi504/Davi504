@@ -6,7 +6,7 @@ em nuvem (AWS) e habilidades em UX/UI Design. Atualmente, busco me especializar 
 novas tecnologias e aprimorar meu inglês. Meus projetos pessoais estão disponíveis no
 meu portfólio.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
