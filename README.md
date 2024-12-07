@@ -1,4 +1,4 @@
-# Olá eu sou o Davi
+# Olá, eu sou o Davi
 
 ## Pessoa Desenvolvedora BackEnd & Front end (Fullstack)
 
