@@ -1,6 +1,6 @@
 # Olá, eu sou o Davi
 
-## Pessoa Desenvolvedora BackEnd & Front end (Fullstack)
+## Pessoa Desenvolvedora BackEnd & FrontEnd (Fullstack)
 
 ## Portfólio:
 - [link](https://davibelchiordev.netlify.app/)
