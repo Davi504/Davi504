@@ -18,4 +18,4 @@ novas tecnologias e aprimorar meu inglês.
 
 # Principais Conhecimentos
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql,figma)](https://skillicons.dev)
