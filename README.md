@@ -16,6 +16,6 @@ Conhecimento em tecnologias BackEnd e FrontEnd, bancos de dados SQL, computaçã
 em nuvem (AWS) e habilidades em UX/UI Design. Atualmente, busco me especializar em
 novas tecnologias e aprimorar meu inglês.
 
-# Principais Conhecimentos
+## Principais Conhecimentos
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql,figma)](https://skillicons.dev)
