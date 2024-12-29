@@ -1,8 +1,8 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Davi!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Davi!;" />
 </h1>
 
-<h2 align="left">My stats ⚡</h2>
+<h2 align="left" style="border-bottom:none">My stats ⚡</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Davi504&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -10,9 +10,10 @@
 </div>
 
 
+
 <img align="right" height="156" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
 
-<h2 align="left">Principais habilidades</h2>
+<h2 align="left" style="border-bottom:none">Principais habilidades</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="35" alt="html5 logo"  />
@@ -34,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
 </div>
 
-<h2 align="left">Frameworks</h2>
+<h2 align="left" style="border-bottom:none">Frameworks</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
@@ -56,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
 </div>
 
-<h2 align="left">Contato</h2>
+<h2 align="left" style="border-bottom:none">Contato</h2>
 
 <div align="left">
   <a href="https://api.whatsapp.com/send/?phone=5511959176475&text&type=phone_number&app_absent=0" target="_blank">
@@ -73,10 +74,12 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Davi504/Davi504/output/snake.svg" alt="Snake animation" />
 
-###
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
