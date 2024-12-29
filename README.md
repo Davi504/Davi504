@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Davi!;" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Davi!;&color=FF00FF" /> </h1>
 
 <p align="center">Desenvolvedor Fullstack Freelancer com 8 meses de experiência em projetos variados com diferentes tecnologias e frameworks. Conhecimento em tecnologias BackEnd e FrontEnd, bancos de dados SQL, computação em nuvem (AWS) e habilidades em UX/UI Design. Atualmente, busco me especializar em novas tecnologias e aprimorar meu inglês. Meus projetos pessoais estão disponíveis no meu <a href="https://davibelchiordev.netlify.app/">Portfólio</a>.</p>
 
@@ -93,6 +91,4 @@
 </picture>
 
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;&color=FF00FF" /> </h1>
