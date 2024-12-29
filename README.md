@@ -27,6 +27,9 @@
   <a href="https://www.instagram.com/love_sick_angel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://davibelchiordev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
+  </a>
 </div>
 
 <h3 align="left">Principais tecnologias~</h3>
@@ -74,7 +77,7 @@
 </div>
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3> My Stats ⚡</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Davi504&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
