@@ -6,7 +6,7 @@
 
 #
 
-<img align="right" alt="" height="200px" src="./src/study.gif" style="margin-top: -30px;" />
+<img align="right" alt="" height="300px" src="./src/study.gif" style="margin-top: -30px;" />
 
 
 <h3 align="left">Contate me!</h3>
