@@ -6,12 +6,11 @@
 
 #
 
-<img align="right" alt="" width="900px" src="./src/study.gif" style="margin-top: -30px;" />
 
 
 <h3 align="left">Contate me!</h3>
 
-<img align="right" height="250px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+<img align="right" height="275px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 
 <div align="left">
