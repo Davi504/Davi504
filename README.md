@@ -69,6 +69,8 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
   <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" alt="jquery logo"  />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="7" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="35" alt="laravel logo"  />
